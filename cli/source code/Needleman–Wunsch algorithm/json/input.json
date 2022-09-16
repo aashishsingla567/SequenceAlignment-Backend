@@ -1,0 +1,10 @@
+{
+    "seq1": "ATTGCAGCAA",
+    "seq2": "AAATTAGCAT",
+
+    "scoring_schema": {
+        "match": 1,
+        "mismatch": -1,
+        "gap": -1
+    }   
+}
